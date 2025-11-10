@@ -1,22 +1,22 @@
 [
   {
-    "heading": "Dedicated Teams",
-    "content": "Benefit from our committed teams who ensure your success is personal. Count on expert guidance and exceptional results throughout your project journey.",
+    "heading": "Nos intervenants",
+    "content": "Nos débats et nos formations ont été guidés par un panel d'expert venant d'horizons différents, dans le but de confronter des opinions divergents. et de forger un esprit critique pour le public.",
     "svg": "groups"
   },
   {
-    "heading": "Simplicity and Affordability",
-    "content": "Find easy-to-use, affordable solutions with ScrewFast's line of tools and equipment. Our products make procurement simple and keep projects within budget.",
-    "svg": "verified"
+    "heading": "Notre jury citoyen",
+    "content": "Les personnes qui ont pris part à cette aventure sont des français majeurs qui ont été tirés au sort dans la population. Nous avons sélectionnés deux personnes par région française afin de répondre au mieux aux différents enjeux et problématiques des territoires.",
+    "svg": "frame"
   },
   {
-    "heading": "Comprehensive Documentation",
-    "content": "Integrate with ease using ScrewFast's exhaustive guides and libraries. Achieve seamless product adoption with our full suite of documentation designed for your success.",
+    "heading": "Un résultat clair et concis",
+    "content": "Le produit final de ces discussions se doit d'être approprié pour la lecture de chaque citoyen impacté par de telles mesures. C'est pourquoi nous avons mis en place ce site ouvert, sans restrictions.",
     "svg": "books"
   },
   {
-    "heading": "User-Centric Design",
-    "content": "Experience the difference with ScrewFast's user-focused design — where functionality meets practicality for an enhanced work experience.",
-    "svg": "frame"
+    "heading": "Une portée politique",
+    "content": "L'objectif de nos réunions est d'épauler les députés dans leurs prises de décisions, pour qu'elles se rapprochent des attentes réelles de l'ensemble des français.",
+    "svg": "politic"
   }
 ]
