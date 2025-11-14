@@ -3,7 +3,7 @@ import Icon from "@components/ui/icons/Icon.astro";
 // Destructure the properties from Astro.props
 const {
   pageTitle,
-  title = Astro.currentLocale === "fr" ? "Partager" : "Share",
+  title = Astro.currentLocale === "fr" ? "Partager" : "Partager",
 } = Astro.props;
 
 // Define TypeScript interface for the properties
@@ -67,7 +67,7 @@ const socialPlatforms: SocialPlatform[] = [
             aria-label={`Share on ${platform.name}`}
           >
             <Icon name={platform.svg} />
-            Share on {platform.name}
+            Partager sur {platform.name}
           </a>
         ))
       }
@@ -108,7 +108,7 @@ const socialPlatforms: SocialPlatform[] = [
         >
           <polyline points="20 6 9 17 4 12"></polyline>
         </svg>
-        <span class="js-clipboard-success-text">Copy link</span>
+        <span class="js-clipboard-success-text">Copier le lien</span>
       </button>
     </div>
   </div>
