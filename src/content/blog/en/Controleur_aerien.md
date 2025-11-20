@@ -1,10 +1,9 @@
 ---
-title: "Comment Contrôle t'on l'espace Aérien Francais"
-description: "Les Controleurs Aériens viennent nous apprendre"
-author: "Eud"
-role: "Controleur Aérien"
-authorImage: "@/images/blog/controlleuraerien.png"
-authorImageAlt: "Avatar Description"
+title: "Comment un simple drone peut paralyser l'espace aérien"
+description: "Les contrôleurs aériens nous font part de leurs déboires"
+author: "Jeanne"
+authorImage: "@/images/blog/jeanne.png"
+authorImageAlt: "Photo de profil de Jeanne"
 pubDate: 2025-11-22
 cardImage: "@/images/blog/post2.png"
 cardImageAlt: "Side view worker wearing gloves"

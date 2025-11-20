@@ -8,7 +8,7 @@ pubDate: 2025-09-01
 cardImage: "@/images/blog/bird-yellow.jpg"
 cardImageAlt: "Top view mechanical tools arrangement"
 readTime: 4
-tags: ["tools", "construction", "workflow" ]
+tags: ["nature", "environnements", "impacts" ]
 contents: [
         "En tant qu'agent de l'office français de la biodiversité je me suis tout de suite senti impliqué par le sujet des conséquences environnementales. C'est ainsi que j'ai proposé à plusieurs de mes camardes rencontrés au cours de la conférence de rédiger une petit trace écrite.",
         "Nous avons eu accès à plusieurs études sur le sujet, l'une d'entre elles montraient clairement qu'une augmentation du trafic aérien à basse altitude pourrait entraîner des collisions, notamment dans les zones urbaines où la densité de volatiles est élevée (pigeons, corneille, etc...), mais aussi lors des migrations saisonnières.",

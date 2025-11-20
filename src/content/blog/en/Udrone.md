@@ -5,10 +5,10 @@ author: "Pierre"
 authorImage: "@/images/blog/jacob.avif"
 authorImageAlt: "Avatar Description"
 pubDate: 2025-11-17
-cardImage: "@/images/blog/post-1.avif"
-cardImageAlt: "Top view mechanical tools arrangement"
+cardImage: "@/images/blog/deliv_drone.png"
+cardImageAlt: "Image d'un drone en livraison"
 readTime: 4
-tags: ["tools", "construction", "workflow" ]
+tags: ["drone", "livraison", "entreprise" ]
 contents: [
         "Des dirigeants ",
         "Our range of hardware tools combines precision engineering with user-centric design, ensuring maximum productivity on every job site. From power drills to advanced fastening solutions, ScrewFast's tools are built to withstand the rigors of construction while streamlining your workflow.",
