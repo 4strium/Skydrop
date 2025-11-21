@@ -1,8 +1,8 @@
 ---
-title: "Oui oui c'est bien thomas sur la photo"
-description: "Affordable, durable tools for efficient construction projects"
+title: "Le bruit des drones et les possibles perturbations"
+description: "Chaque drone emet un bruit surtout à cause de leurs hélice"
 author: "Thomas"
-role: "Strategic Marketing Manager"
+role: "Conferencier"
 authorImage: "@/images/blog/anna.avif"
 authorImageAlt: "Avatar Description"
 pubDate: 2024-02-18

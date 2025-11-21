@@ -1,17 +1,33 @@
 ---
-title: "The Importance of Collaboration"
-description: "Explore how collaboration is central to ScrewFast's construction approach, driving effective communication and teamwork to achieve outstanding outcomes."
+title: "Des extraits de discussion durant le Débat"
+description: "Chaque conférencier a pu prendre la parole durant les differents débat et chacun a pu parler des sujets qu'il defend."
 cardImage: "@/images/insights/insight-2.avif"
 cardImageAlt: "Top view mechanical tools arrangement"
 ---
 
 In the realm of construction, where projects often involve intricate designs, tight deadlines, and complex logistical challenges, the importance of collaboration cannot be overstated. Effective collaboration is not just a desirable aspect of project management; it is the cornerstone upon which successful construction endeavors are built. In this long read, we delve into how collaboration serves as the driving force behind ScrewFast's construction approach, facilitating effective communication and teamwork to achieve outstanding outcomes.
 
-## Understanding ScrewFast: A Brief Overview
+## Débat sur les dégats possible sur les Oiseaux.
 
-Before we delve into the intricacies of collaboration within ScrewFast's construction projects, it's essential to grasp the company's background and ethos. ScrewFast is a renowned construction firm known for its innovative approach to foundation solutions. Specializing in helical pile foundations, ScrewFast has established itself as a leader in the construction industry, delivering high-quality, cost-effective solutions for a wide range of projects, from small-scale developments to large-scale infrastructure ventures.
+	#
+	Marco : "Les oiseaux seront en danger avec la 
+	multiplication des drones dans les espaces ruraux,
+	en effet face au drone un oiseau peut prendre la 
+	fuite et abandonner son nid, ce qui peut 
+	entrainer un échec de reproduction"
 
-## The Collaborative Culture at ScrewFast
+	Jérome : "Si des espaces protégés pour les oiseaux 
+	sont mis en place, cela pourrait réduire les 
+	risques des cas comme cela se passe?"
+
+	Marco : "En effet ca pourrait aider, cependant 
+	les oiseaux migrent en groupe et ainsi ils sont 
+	aussi une menace pour les drones si un drone 
+	rencontre un groupe d'oiseaux migrateurs, on ne 
+	sait pas ce qui pourrait se passer"
+
+
+## Le bruit des drones dans les campagnes
 
 At the heart of ScrewFast's success lies a culture that prioritizes collaboration at every stage of the construction process. From project inception to completion, collaboration is woven into the fabric of the company's operations. Unlike traditional hierarchical models prevalent in many construction firms, ScrewFast fosters an environment where every team member's input is valued, regardless of their role or seniority.
 
