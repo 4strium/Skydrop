@@ -1,7 +1,5 @@
 import ogImageSrc from "@images/social.png";
 
-
-
 export const SITE = {
   title: "Skydrop",
   tagline: "Top-quality Hardware Tools",
