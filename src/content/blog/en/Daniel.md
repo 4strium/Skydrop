@@ -2,7 +2,7 @@
 title: ""
 description: "comment harmoniser les nouvelles technologies avec une nature de plus en plus menacée"
 author: "Daniel"
-authorImage: "@/images/blog/Daniel.avif"
+authorImage: "@/images/blog/Daniel.png"
 authorImageAlt: "Avatar Description"
 pubDate: 2024-02-06
 cardImage: "@/images/blog/post-1.avif"
