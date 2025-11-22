@@ -1,15 +1,13 @@
 ---
 title: "Des extraits de discussion durant le Débat"
 description: "Chaque conférencier a pu prendre la parole durant les differents débat et chacun a pu parler des sujets qu'il defend."
-cardImage: "@/images/insights/insight-2.avif"
+cardImage: "@/images/insights/discu.png"
 cardImageAlt: "Top view mechanical tools arrangement"
 ---
 
-In the realm of construction, where projects often involve intricate designs, tight deadlines, and complex logistical challenges, the importance of collaboration cannot be overstated. Effective collaboration is not just a desirable aspect of project management; it is the cornerstone upon which successful construction endeavors are built. In this long read, we delve into how collaboration serves as the driving force behind ScrewFast's construction approach, facilitating effective communication and teamwork to achieve outstanding outcomes.
-
 ## Débat sur les dégats possible sur les Oiseaux.
 
-	#
+	
 	Marco : "Les oiseaux seront en danger avec la 
 	multiplication des drones dans les espaces ruraux,
 	en effet face au drone un oiseau peut prendre la 
@@ -26,35 +24,53 @@ In the realm of construction, where projects often involve intricate designs, ti
 	rencontre un groupe d'oiseaux migrateurs, on ne 
 	sait pas ce qui pourrait se passer"
 
+	Jérôme :" Donc, en plus de protéger les oiseaux, 
+	il faudrait aussi réguler l’usage des drones, 
+	surtout pendant les périodes de migration ? "
+
+	Marco :"Exactement. On pourrait imaginer des 
+	couloirs aériens interdits aux drones, un peu 
+	comme pour l’aviation. Et pourquoi pas des 
+	systèmes de détection automatique pour éviter 
+	les collisions."
+
+	Jérôme :"Ce serait un bon compromis entre 
+	innovation technologique et protection de 
+	la biodiversité."
+
 
 ## Le bruit des drones dans les campagnes
+	
+	Marie :"Ce qu’on observe en ville, c’est
+	que les drones ajoutent un bruit aigu très 
+	reconnaissable. Même si leur volume n’est 
+	pas énorme, leur fréquence attire 
+	immédiatement l’attention et perturbe le 
+	calme, surtout dans les zones résidentielles 
+	les drones peuvent monter jusqu'a 85 décibel."
 
-At the heart of ScrewFast's success lies a culture that prioritizes collaboration at every stage of the construction process. From project inception to completion, collaboration is woven into the fabric of the company's operations. Unlike traditional hierarchical models prevalent in many construction firms, ScrewFast fosters an environment where every team member's input is valued, regardless of their role or seniority.
+	Thimas :" C’est vrai. Il faut absolument réduire 
+	ce bruit afin de ne pas déranger les habitant, 
+	les drones devront voler a toutes heures cela 
+	pourrait vite devenir un problème. "
 
-### Breaking Down Silos: The Key to Effective Collaboration
+	Marie :" les nuisances sonores sont trés 
+	important, surtout lorsqu’il y a répétition. 
+	Un drone qui passe une fois, ce n’est rien. 
+	Mais des passages réguliers en soirée, près des 
+	fenêtres d’appartements. cela peut provoquer 
+	stress, gêne et troubles du sommeil. "
 
-One of the biggest hurdles to collaboration in construction is the presence of silos within organizations. Departments often operate in isolation, leading to miscommunication, duplication of efforts, and a lack of synergy. ScrewFast tackles this challenge head-on by breaking down silos and promoting cross-functional collaboration.
+	Thomas :" C’est pour cela qu'on pourrait mettre 
+	en place des règles : limiter les horaires de vol 
+	dans les quartiers d’habitation et créer des 
+	couloirs aériens qui évitent les zones sensibles, 
+	comme les écoles ou les hôpitaux. "
 
-#### Cross-Functional Teams: Bridging the Gap
+	Guillaume :" Donc vous êtes tous les deux d’accord 
+	sur la nécessité d’un encadrement ? "
 
-ScrewFast forms cross-functional teams comprising professionals from diverse backgrounds, including engineers, architects, project managers, and construction workers. By bringing together individuals with varied expertise and perspectives, ScrewFast ensures comprehensive problem-solving and holistic decision-making throughout the project lifecycle.
-
-#### Integrated Project Delivery: A Unified Approach
-
-Integrated project delivery (IPD) is another cornerstone of ScrewFast's collaborative ethos. Unlike traditional project delivery methods where stakeholders operate in separate silos, IPD fosters a unified approach where all parties work together from the outset. This integrated approach promotes transparency, efficiency, and collective accountability, ultimately leading to superior project outcomes.
-
-## Driving Innovation Through Collaboration
-
-Collaboration isn't just about improving communication and teamwork; it also serves as a catalyst for innovation. At ScrewFast, collaboration fuels a culture of continuous improvement and forward thinking, driving the development of groundbreaking solutions that push the boundaries of construction technology.
-
-### Co-Creation with Clients: Turning Ideas into Reality
-
-ScrewFast recognizes the importance of involving clients in the co-creation process. By collaborating closely with clients from project inception, ScrewFast gains valuable insights into their needs, preferences, and challenges. This collaborative approach enables ScrewFast to tailor its solutions to meet clients' specific requirements, resulting in enhanced customer satisfaction and project success.
-
-### Embracing Emerging Technologies
-
-Innovation thrives in collaborative environments where diverse perspectives intersect. At ScrewFast, collaboration extends beyond internal teams to external partners, including technology providers, research institutions, and academia. By forging strategic partnerships with industry leaders, ScrewFast stays at the forefront of technological advancements, leveraging cutting-edge tools and techniques to drive efficiency and performance across its projects.
-
-## Conclusion
-
-In the fast-paced world of construction, collaboration isn't just a buzzword; it's a fundamental principle that underpins success. ScrewFast's construction approach exemplifies the transformative power of collaboration, demonstrating how effective communication, teamwork, and innovation can drive outstanding outcomes. As the construction industry continues to evolve, embracing collaboration will be key to navigating challenges, seizing opportunities, and delivering sustainable solutions that stand the test of time.
+	Marie :" Oui, absolument. Le bruit des drones 
+	n’est pas insurmontable, mais il doit être planifié. 
+	Sinon, on risque d’ajouter une couche supplémentaire 
+	au brouhaha urbain. "
