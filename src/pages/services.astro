@@ -8,18 +8,13 @@ import FeaturesStats from "@components/sections/features/FeaturesStats.astro";
 
 // Import necessary images
 import blueprints from "@images/timeline.png";
-import personWorking from "@images/convention.png";
+import personWorking from "@images/conference.png";
 import beforeAfter from "@images/Decision finale.png";
 import constructionWorkers from "@images/construction-workers.avif";
 import aerialView from "@images/aerial-view.avif";
 import usingTools from "@images/Logo.png";
-<<<<<<< HEAD
 import progressBuilding from "@images/conclusion.png";
 import underConstruction from "@images/under-construction.avif";
-=======
-import zipline0 from "@images/zipline-0.png";
-import walmartwing from "@images/walmart-wing.png";
->>>>>>> eac67e9848c7e64ff525443ae288193b96225fb1
 import { SITE } from "@data/constants";
 
 interface Article {
@@ -41,9 +36,9 @@ interface Article {
 const articles: Article[] = [
   {
     isRightSection: true,
-    title: "Déroulement conference de consensus",
+    title: "Déroulement conference de concensus",
     subTitle:
-      "Pendant six mois, 36 personnes venant de différentes régions ont débattu sur les drones livreurs. Cependant pour pouvoir débattre elles ont d'abord étudié le sujet a l'aide de formateur venu de milieu different. Ces differents formateurs ont aider a nos conferenciers de se faire une opinion sur les drones livreurs et en conclusion de pouvoir rendre un compte rendu dessus qui sera lu par le parlement et le sénat (et non pas par le président seulement). En esperant aboutir sur une reglementation  .",
+      "Pendant six mois, 36 personnes venant de différentes régions ont débattu sur les drones livreurs. Cependant pour pouvoir debattre elles ont dabord étudié le sujet a l'aide de formateur venu de milieu different. Ces differents formateurs ont aider a nos conferenciers de se faire une opinion sur les drones livreurs et en conclusion de pouvoir rendre un compte rendu dessus qui sera lu par le parlement et le sénat (et non pas par le président seulement). En esperant aboutir sur une reglementation  .",
     single: false,
     imgOne: blueprints,
     imgOneAlt: "Blueprints and digital tablet with construction plans.",
@@ -54,10 +49,12 @@ const articles: Article[] = [
     isRightSection: false,
     title: "Les Avis",
     subTitle:
-      "Nos conférenciers ont passé plus de 400 heures à débattre sur un sujet qui nous concerne tous : les drones livreurs. Les avis au cours de ce débat ont été très nuancés. Au fil des échanges, de nombreuses problématiques ont émergé, contrastant avec les avantages indéniables de cette technologie. Beaucoup de conférenciers voyaient l'aspect écologique de cette technologie, notamment de la production de batterie qui est un sujet très controversé de nos jours. D'autre personne ont pensé au personnes qui pourraient en bénéficier, en particulier les personnes a mobilité réduite qui bénéficierais de ce système même dans des coins plus reculés. Enfin on a pu débattre sur les dégâts probables sur la faune principalement les oiseaux.", 
+      "Nos conférenciers ont passé plus de 400 heures à débattre sur un sujet qui nous concerne tous : les drones livreurs. Les avis au cours de ce débat ont été très nuancés. Au fil des échanges, de nombreuses problématiques ont émergé, contrastant avec les avantages indéniables de cette technologie. Beaucoup de conférenciers voyaient l'aspect ecologique de cette technologie, nottament de la production de batterie qui est un sujet trés controversé de nos jours. D'autre personne ont pensé au personnes qui pourraient en bénéficier, en particulier les personnes a mobilité réduite qui bénéficierais de ce systeme meme dans des coins plus reculé. Enfin on a pu débattre sur les degats probable sur la faune principalement les oiseaux", 
     img: beforeAfter,
     imgAlt: "Construction site before and after",
-    btnExists: false,
+    btnExists: true,
+    btnTitle: "FAKE BOUTTON",
+    btnURL: "#",
   },
   {
     isRightSection: true,
@@ -81,23 +78,17 @@ const articles: Article[] = [
   },
   {
     isRightSection: true,
-<<<<<<< HEAD
     title: "Conclusion",
     subTitle:
       "En conclusion les avis des conférencier convergent sur le fait que les drones livreurs représentent une avancée technologique intéressante, mais leur intégration dans la société ne doit pas se faire trop vite. Ils peuvent réellement améliorer certains services, réduire le trafic, accélérer les livraisons, atteindre des zones isolées. Mais ces bénéfices ne justifient pas de fermer les yeux sur leurs impacts :Le bruit, la sécurité, la vie privée, la consommation énergétique et la production des batteries sont des questions sérieuses qui ne peuvent pas être ignorées.Selon eux les drones livreurs ne devraient être déployés que si leur usage est strictement encadré, limité à des situations où ils apportent une vraie valeur ajoutée, et accompagné d’un dialogue constant avec les citoyens. Une technologie n’est pas forcément un progrès si elle n’améliore pas réellement la vie des gens.",
-=======
-    title: "Des études de cas ciblées",
-    subTitle:
-      "Afin de parfaitement saisir les enjeux relatifs à la livraison par drone, il convient d'étudier des solutions déjà mises en place dans d'autres pays. Nos membres ont par ailleurs réfléchi aux possibilités de transposer certaines solutions à notre pays.",
->>>>>>> eac67e9848c7e64ff525443ae288193b96225fb1
     single: false,
-    imgOne: zipline0,
+    imgOne: progressBuilding,
     imgOneAlt: "In progress building structure",
-    imgTwo: walmartwing,
+    imgTwo: underConstruction,
     imgTwoAlt: "Brown and gray building under construction",
     btnExists: true,
-    btnTitle: "Voir plus",
-    btnURL: "insights/insight-1/",
+    btnTitle: "Read more",
+    btnURL: "#",
   },
 ];
 
@@ -131,9 +122,9 @@ const ogTitle = "Expert Consultation Services | ScrewFast";
 >
   {/* MainSection is the introductory section of the page, it also contains a CTA button */}
   <MainSection
-    title="Notre conférence de consensus en détails"
-    subTitle="Voici quelques informations supplémentaires qui vous permettront de vous plonger dans l'univers de nos discussions."
-    btnExists={false}
+    title="Uniting Expertise with Your Vision"
+    subTitle="At ScrewFast, we take pride in providing comprehensive solutions and exceptional service in the hardware and construction industry. Our experienced team is dedicated to supporting your project from inception to completion with a range of specialized services."
+    btnExists={true}
     btnTitle="Schedule a Consultation"
     btnURL="#"
   />
@@ -176,13 +167,13 @@ const ogTitle = "Expert Consultation Services | ScrewFast";
   {/* FeaturesStats section showcases essential stats valuable to users */}
   <FeaturesStats
     title="Les nombres clés"
-    subTitle="Ce projet sert à montrer que tout est débattable, et que même en étant un citoyen, on peut donner son avis sur une technologie de pointe."
+    subTitle="Ce projet sert a montré que tout est débatable, que mème en etant un citoyen on peut donner son avis sur une technologie."
     mainStatTitle="36"
     mainStatSubTitle="Personnes ont débattu pendant 6 mois sur les drones livreurs "
     stats={[
       {
         stat: "400h + ",
-        description: "de débat en salle",
+        description: "de debat en salle",
       },
       {
         stat: "5,000+",
