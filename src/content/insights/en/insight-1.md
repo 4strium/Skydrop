@@ -1,42 +1,39 @@
 ---
-title: "The Future of Construction Technology"
-description: "Explore ScrewFast's pioneering role in revolutionizing construction through advanced technology and innovative solutions."
-cardImage: "@/images/insights/insight-1.avif"
-cardImageAlt: "Top view mechanical tools arrangement"
+title: "L'exemple des livraisons sanitaires en Afrique"
+description: "Avant de développer un accès total à la livraison par drone pour tous, il convient d'identifier des usages adaptés."
+cardImage: "@/images/insights/zipline.png"
+cardImageAlt: "Image d'un drone Zipline livrant une poche de sang."
 ---
 
-In the world of construction, where innovation meets practicality, ScrewFast stands as a beacon of pioneering advancements. For years, this company has been at the forefront of revolutionizing construction through its unwavering commitment to advanced technology and innovative solutions. From skyscrapers to bridges, ScrewFast has left an indelible mark on the industry, shaping the future of construction in ways once thought unimaginable.
+Peu de personnes le savent mais en Afrique une grande révolution est en cours. En effet, à l'heure où nous écrivons ce texte, des pays tels que le Ghana, le Rwanda, le Nigeria, le Kenya, ou la Côte d’Ivoire font appel aux services de l'entreprise américaine [Zipline](https://www.zipline.com/) pour traiter une partie des livraisons sanitaires.
 
-## A Legacy of Innovation
+## Combattre des maladies à la souche
 
-Founded with a vision to redefine the norms of construction, ScrewFast embarked on a journey marked by relentless innovation. Since its inception, the company has continually pushed the boundaries of what is possible, introducing groundbreaking technologies that have transformed the way structures are built.
+Depuis de nombreuses années, le Rwanda est touché par une épidémie de Malaria, il existe bien des médicaments permettant de soigner les fortes fièvres qui se manifestent chez les jeunes enfants, cependant ces derniers arrivent au compte goutte depuis d'autres continents. Il arrive donc régulièrement que certaines infrastructures médicales locales arrivent à manquer de substances permettant de soulager les symptômes. C'est ici qu'interviennent les drones de la compagnie Zipline.
 
-## Reinventing Foundation Systems
+Plus de 70 hôpitaux locaux sont livrés par drone à leur demande, ils se situent tous dans les régions du Nyagatare, Gisagara, et Nyamasheke, qui sont des régions avec de mauvaises infrastructures routières. 
 
-At the heart of ScrewFast's success lies its revolutionary approach to foundation systems. Traditionally, the process of laying foundations has been cumbersome and time-consuming, often requiring extensive excavation and manual labor. However, ScrewFast's innovative solutions have changed the game entirely.
+## Réduire les temps d'attente
 
-By leveraging advanced techniques such as helical pile installation, ScrewFast has streamlined the foundation process, significantly reducing both time and cost. These helical piles, with their screw-like design, offer unparalleled stability and can be installed with remarkable efficiency, making them the go-to choice for projects of all sizes.
+Un des personnels de santé explique notamment qu'avant l'arrivé de la livraison par drone, les médecins devaient attendre plus de deux jours avant de pouvoir administrer les médicaments aux personnes malades. Avec des drones livreurs, la livraison prend exactement 27 minutes !
 
-## Embracing Digitalization
 
-In an era dominated by digitalization, ScrewFast has embraced technology wholeheartedly, harnessing its power to drive efficiency and precision. Through the use of advanced software and modeling techniques, the company has revolutionized the design and planning phases of construction projects.
+## Réduire le gaspillage et la mauvaise médication
 
-From 3D modeling to Building Information Modeling (BIM), ScrewFast employs cutting-edge tools to create detailed simulations of structures, allowing for better visualization and optimization. This digital approach not only enhances the accuracy of construction plans but also enables seamless collaboration among architects, engineers, and builders.
+il est cependant important de noter qu'une livraison médicale par drone n'est pas identique à une livraison classique par véhicule terrestre, en effet, la livraison est à la demande des médecins, le drone livre donc des petites quantités qui correspondent aux besoins réels des patients.
 
-## Sustainable Solutions for a Greener Tomorrow
+Le ministère de la santé rwandais évite donc des déséquilibres de distribution logistique, avec des médicaments qui seraient trop nombreux à un endroit et manquants à l'autre bout du pays. Mais c'est surtout la possibilité de pouvoir à présent administrer le médicament exact à la personne malade qui est offerte : les infirmiers ont pû par le passé prescrire des médicaments inadaptés à des patients. Les substances étaient alors trop dosées ou pas efficaces contre la bactérie, mais le personnel n'avait pas d'autres choix que de travailler avec les antibiotiques disponibles. 
 
-In a world increasingly concerned with sustainability, ScrewFast has taken proactive steps to minimize its environmental footprint. By prioritizing eco-friendly materials and sustainable construction practices, the company is leading the charge towards a greener future.
+## Développer l'accès à l'emploi localement
 
-One notable example is ScrewFast's commitment to modular construction—a method that involves prefabricating building components off-site and assembling them on-site. This approach not only reduces construction waste but also minimizes disruption to local ecosystems, making it a win-win for both builders and the environment.
+Enfin, il est important de noter que ce ne sont pas des employés américains qui font tourner ce système; En effet bien que la conception des drones se déroule aux États-Unis, les engins volants sont opérés de A à Z par des employés locaux. Ce sont donc plus de 500 emplois qui ont été créé dans les pays où la compagnie Zipline donne accès à ses drones, répartis dans plus de 13 centres opérationnels aux quatres coins de l'Afrique.
 
-## The Road Ahead: Challenges and Opportunities
+## Transférer ce savoir faire pour l'agriculture
 
-As ScrewFast continues to push the boundaries of construction technology, it faces a myriad of challenges and opportunities on the horizon. From navigating regulatory hurdles to adapting to evolving industry trends, the road ahead is fraught with complexities.
-
-However, with its unwavering dedication to innovation and a track record of success, ScrewFast is well-positioned to overcome these obstacles and continue shaping the future of construction for generations to come. As the industry marches towards an increasingly digital and sustainable future, ScrewFast stands as a beacon of progress, leading the way towards a world where construction is not just efficient and cost-effective but also environmentally responsible.
+Dans des pays où la sous nutrition est malheureusement un problème majeur, il convient de renforcer l'agriculture locale pour faire face aux aléas. C'est pourquoi depuis 2023 Zipline permet la livraison de kits d’insémination artificiel pour les élevages porcins. Comme l'explique un agriculteur rwandais cela lui permet de sélectionner des races plus performantes et robustes afin de viabiliser l'accès à une nourriture de qualité.
 
 ## Conclusion
 
-In the ever-evolving landscape of construction technology, ScrewFast remains a trailblazer, constantly pushing the boundaries of what is possible. Through its commitment to innovation, digitalization, and sustainability, the company has not only revolutionized the way structures are built but has also set a new standard for excellence in the industry.
+Vous avez donc pû entrevoir l'étendue des possibilités offertes par la livraison par drone dans des pays qui ne demandent qu'à se développer en faisant appel à ce type de solution. Ces dernières, bien qu'elles ne soient pas des réponses miracles, permettent tout de même de résoudre certains enjeux critiques localement.
 
-As we look towards the future, one thing is clear: the legacy of ScrewFast will continue to shape the world of construction for years to come, inspiring generations of builders to dream big and push the limits of possibility. With ScrewFast leading the way, the future of construction has never looked brighter.
+Suite à cette étude de cas, nos membres ont acquiescé sur le fait qu'une utilisation ciblée de la livraison par drone en France est très largement envisageable.
