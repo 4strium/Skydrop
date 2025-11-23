@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Sustainable Practices"
+title: "Empêcher le piratage des appareils"
 description: "Discover how ScrewFast is leading the charge in promoting sustainability within the construction industry"
 cardImage: "@/images/insights/insight-3.avif"
 cardImageAlt: "Top view mechanical tools arrangement"
