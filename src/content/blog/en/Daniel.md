@@ -4,7 +4,7 @@ description: "Comment harmoniser les nouvelles technologies avec une nature de p
 author: "Daniel"
 authorImage: "@/images/blog/daniel.png"
 authorImageAlt: "Avatar Description"
-pubDate: 2024-02-06
+pubDate: 2025-06-06
 cardImage: "@/images/blog/martinique.jpg"
 cardImageAlt: "Top view mechanical tools arrangement"
 readTime: 4

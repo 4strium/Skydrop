@@ -5,15 +5,17 @@ author: "Thomas"
 role: "Conferencier"
 authorImage: "@/images/blog/anna.avif"
 authorImageAlt: "Avatar Description"
-pubDate: 2024-02-18
-cardImage: "@/images/blog/post-3.avif"
+pubDate: 2025-09-18
+cardImage: "@/images/blog/bruit.png"
 cardImageAlt: "Side view worker wearing gloves"
 readTime: 6
 tags: ["procurement", "affordable", "efficiency" ]
 contents: [
-        "Managing a construction project can be overwhelming, especially when it comes to procurement. That's why ScrewFast is committed to simplifying the process and keeping your projects within budget.",
-        "With our line of affordable tools and equipment, you can find everything you need without breaking the bank. Our user-centric design ensures that our products are easy to use, saving you time and frustration on the job site.",
-        "But affordability doesn't mean sacrificing quality. ScrewFast products are built to last, providing reliable performance and durability when you need it most. And with our comprehensive documentation and tutorials, you can integrate our products seamlessly into your workflow, maximizing efficiency and productivity.",
-        "Whether you're a DIY enthusiast or a seasoned contractor, ScrewFast has the solutions you need to succeed. Experience the difference for yourself and see why ScrewFast is the trusted choice for hardware and construction needs."
+        "Une problématique lié au drone livreur est souvent évoqué et c'est son  bruit. Ils font font un bourdonnement aigu qui peut surprendre ou déranger, surtout 
+        dans les endroits calmes où on entend tout comme la campagne ou l'on est pas habitué a entendre c'est bruit. Même si le bruit dure peu de temps, il peut gêner les
+        habitants ou perturber certains animaux. Et si un jour beaucoup de drones circulent, cela pourrait devenir une vraie nuisance. Mais il y a aussi des points positifs 
+        : ils sont électriques, donc moins bruyants qu’une camionnette, et ne restent pas longtemps au-dessus d’une zone. De plus, leur bruit sert aussi d’avertissement pour
+        éviter les accidents. Les fabricants travaillent déjà à les rendre plus silencieux, ce qui pourrait permettre de profiter de la livraison par drone sans trop 
+        impacter la vie quotidienne."
 ]
 ---
