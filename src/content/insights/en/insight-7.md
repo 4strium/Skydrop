@@ -1,5 +1,5 @@
 ---
-title: "Ils répondent à nos questions"
+title: "Le déploiement des drones autonomes aux coeur des environnements complexes"
 description: "Comment les drones peuvent-ils détecter les infrastructures ?"
 cardImage: "@/images/ispection_par_drone.jpg"
 cardImageAlt: "Top view mechanical tools arrangement"

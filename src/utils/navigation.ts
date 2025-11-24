@@ -10,7 +10,7 @@ const footerLinks = [
   {
     section: "Notre organisation",
     links: [
-      { name: "A propos de nous", url: "#" },
+      { name: "A propos de nous", url: "https://web.enib.fr/programmepeda/content/S3A/03_XASHI.html" },
       { name: "Nos articles", url: "/blog" },
     ],
   },

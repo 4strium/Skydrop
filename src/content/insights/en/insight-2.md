@@ -1,11 +1,11 @@
 ---
-title: "Le Festival De Drone et leurs impactes"
+title: "Les différents impacts étudiés"
 description: "Chaque conférencier a pu prendre la parole durant les differents débat et chacun a pu parler des sujets qu'il defend."
 cardImage: "@/images/insights/discu.png"
 cardImageAlt: "Top view mechanical tools arrangement"
 ---
 
-## Les dégats possible sur la faune 28/07/2025
+## Les dégâts possibles sur la faune 28/07/2025
 
 Thierry : "J'ai peur pour les oiseaux, les drones sont une nuisance pour eux et un possible danger."
 
@@ -25,7 +25,7 @@ Jérome : "Ce serait un bon compromis entre innovation technologique et protecti
 
 ![texte alternatif](/src/images/insights/ois.png)
 
-## Les nuisances sonores des hélices 09/08/2025
+## Les nuisances sonores des hélices (09/08/2025)
 
 Jeanne : "Les avions font déjà assez de bruit comme ça je ne pense pas pouvoir supporter des drones."
 
@@ -44,31 +44,31 @@ Guillaume : "Donc vous êtes tous d’accord sur la nécessité d’un encadreme
 Marie : "Oui, absolument. Le bruit des drones n’est pas insurmontable, mais il doit être planifié. Sinon, on risque d’ajouter une couche supplémentaire au brouhaha urbain."
 
 
-## L'emploi lié au drone livreur !!! 19/07/2025
+## Les emplois liés au drone livreur (19/07/2025)
 
-Hélene : "L'introduction des drones livreurs va surement créer de l'emploi, c'est une superbe nouvelle."
+Hélene : "L'introduction des drones livreurs va sûrement créer de l'emploi, c'est une superbe nouvelle."
 
 Emmanuel : "Je pense aux livreurs qui vont perdre leur emploi à cause des drones livreurs et surtout ça va créer moins d'emploi que ça ne va en détruire"
 
-Hélene : "Il va surement y'avoir une transformation forcée du métier de livreur en maintenance des drones."
+Hélene : "Il va sûrement y'avoir une transformation forcée du métier de livreur en maintenance des drones."
 
 Emmanuel : "Mais ce métier demande plus de qualification que le métier de livreur et beaucoup de jeunes qui travaillent dans ce milieu n'auront plus de travail alors que c'est une grosse source de revenu pour un grand nombre."
 
-Hélene : "Tu as surement raison je ne voyais que la création de poste mais il y'a aussi beaucoup de poste qui seront surement enlevé"
+Hélene : "Tu as sûrement raison je ne voyais que la création de poste mais il y'a aussi beaucoup de poste qui seront sûrement enlevé"
 
 Emmanuel : "Il faut penser aussi que beaucoup de petites entreprises ne vont pas pouvoir investir dans des drones, alors que les plus grandes entreprises vont pouvoir plus facilement investir dedans"
 
 Hélene : "Il va y'avoir une compétition peu égalitaire non ? "
 
-Emmanuel : "Oui surement "
+Emmanuel : "Oui sûrement "
 
 Hélène : "tu ne crois pas que ça peut quand même simplifier la vie de pas mal de gens ? Livraison plus rapide, moins de galère"
 
 Emmanuel : "Peut-être, mais à quel prix ? Les livreurs au chômage et les petites entreprises à la traîne."
 
 
-   ![texte alternatif](/src/images/insights/livreur.png)
+![texte alternatif](/src/images/insights/livreur.png)
 
-## Prompt GPT
+### Prompts GPT utilisés pour cet article
 
-**Quel sujet aborder sur les drones livreurs, un sujet qui fait polémique ?**
+*Quel sujet aborder sur les drones livreurs, un sujet qui fait polémique ?*
