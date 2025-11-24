@@ -2,28 +2,28 @@
   "subTitle": "",
   "faqs": [
     {
-      "question": "Quelle est l'utilité de faire une conférence de consensus pour les drones livreurs?",
-      "answer": "En effet, il est important de comprendre notre démarche. Nous pensons que les machines appartiennent aux citoyens et que c’est donc à eux de décider si ces machines peuvent être utilisées ou non. De plus, nous estimons qu’ils doivent avoir leur mot à dire concernant la réglementation encadrant l’usage de ces drones livreurs."
+      "question": "Quelle est l'utilité d'organiser une conférence de consensus sur les drones livreurs ?",
+      "answer": "Il s'agit d'impliquer les citoyens dans les décisions concernant l'utilisation et la réglementation des drones livreurs. Nous estimons que les machines doivent appartenir à la société et que les citoyens doivent pouvoir décider de leur usage et des règles qui les encadrent."
     },
     {
-      "question": "Quelle avantage les drones livreurs ont par rapport à des livreurs normaux?",
-      "answer": "Les drones livreurs ont des avantages mais aussi des inconvenient par rapport à vos livreurs normaux. Pour commencer les drones sont plus rapides, ils ont moins de chance d'ètre pris dans des bouchons et peuvent atteindre des zones plus éloignés. Cependant ils ne sont pas épargné de défault ils sont un danger pour les oiseaux et créent des nuisances sonores."
+      "question": "Quels avantages les drones livreurs ont-ils par rapport aux livreurs traditionnels ?",
+      "answer": "Les drones peuvent être plus rapides, moins affectés par les embouteillages et capables d'atteindre des zones isolées. En revanche, ils présentent aussi des limites : risques pour la faune (oiseaux), nuisances sonores, contraintes de charge, sensibilité aux intempéries et questions de confidentialité."
     },
     {
-      "question": "Qui sont les formateurs?",
-      "answer": "Les formateurs sont tout les corps de métier qui rentre en contact de prés ou de loin avec les drones livreurs ici est la liste : fabricants de drone, livreurs, restaurateurs, usagers possibles(ex : mobilité réduite), habitant lambda(ville/campagne),technophobe (ecologie/batterie/nutritionniste), militaires, contrôleur aérien et urbaniste."
+      "question": "Qui sont les formateurs ?",
+      "answer": "Les formateurs regroupent des professionnels et des usagers concernés par les drones : fabricants, livreurs, restaurateurs, usagers potentiels (ex. personnes à mobilité réduite), habitants (ville/campagne), personnes préoccupées par l'écologie et les batteries, militaires, contrôleurs aériens et urbanistes."
     },
     {
-      "question": "Quelle problématiques sont abordées?",
-      "answer": "Nous avons débattu sur comment assurer une harmonie entre les différents utilisateurs de l’espace aérien (avions, oiseaux, etc.) ainsi qu’avec les terrains publics et privés survolés à basse altitude par les engins autonome. L’utilité de ces systèmes a aussi été questionnée. Il y'a aussi eu des préoccupations au niveau de l'écologie de la production de batterie (lithium)."
+      "question": "Quelles problématiques sont abordées ?",
+      "answer": "Nous avons débattu de l'harmonisation entre les différents usagers de l'espace aérien (avions, oiseaux, etc.), des interactions avec les espaces publics et privés survolés à basse altitude par des engins autonomes, de l'utilité de ces systèmes et de l'impact environnemental de la production de batteries (lithium)."
     },
     {
-      "question": "Quels sont les risques liés à la sécurité des drones livreurs pour les citoyens?",
-      "answer": "En effet on peut se demander quelles sont les risques qui accompagnent l'utilisation des drones livreurs on peut nottament cité une panne en plein vol ou encore un drone qui fonce dans une personne. C'est en connaissance de ces risques que les conférenciers ont debattu."
+      "question": "Quels sont les risques pour la sécurité des citoyens liés aux drones livreurs ?",
+      "answer": "Parmi les risques identifiés : panne en vol, collision avec des personnes ou des biens, atteintes à la vie privée et risques liés à la gestion des batteries. Ces points ont fait l'objet de discussions lors de la conférence."
     },
     {
       "question": "Qui sont les conférenciers qui ont participé ?",
-      "answer": "Les conférenciers sont des personnes comme vous et moi qui ont été tiré au sort et qui ont accépté de venir debattre a propos des drones pendant 6mois. Ils viennent de toute la france, y compris les DOM-TOM."
+      "answer": "Les conférenciers sont des citoyens tirés au sort et ayant accepté de participer aux débats pendant six mois. Ils viennent de toute la France, y compris des DOM-TOM."
     }
   ]
 }
