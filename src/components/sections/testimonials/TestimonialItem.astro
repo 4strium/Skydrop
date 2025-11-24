@@ -4,13 +4,11 @@ import Icon from "../../ui/icons/Icon.astro";
 
 const { content, author, role, avatarSrc } = Astro.props;
 
-import type { ImageMetadata } from "astro";
-
 interface Props {
   content: string;
   author: string;
   role: string;
-  avatarSrc: ImageMetadata;
+  avatarSrc: string;
 }
 ---
 
