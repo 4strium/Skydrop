@@ -21,8 +21,5 @@ Cette deuxième ligne a été testé en 2019 dans l'Isère, le drone décolle de
 
 ## Conclusion
 
-<<<<<<< Updated upstream
+
 Les trois lignes de livraison par drone créées par La Poste montrent que cette technologie n’est plus un simple test mais une vraie solution pour desservir des zones difficiles d’accès. En effet les 3 tests confirment que la méthode peut être utilisée à plus grande échelle, avec des drones plus puissants et plus utiles pour les habitants. Au final, ces trois expériences prouvent que les drones peuvent réellement améliorer la rapidité et la régularité des livraisons dans les zones rurales ou montagneuses, ou meme en ville, tout en ouvrant la voie à un futur où ce type de service pourrait se développer davantage. C'est probable que l'on revoit des tests dans le futur.
-=======
-Les trois lignes de livraison par drone créées par La Poste montrent que cette technologie n’est plus un simple test mais une vraie solution pour desservir des zones difficiles d’accès. En effet les 3 tests confirment que la méthode peut être utilisée à plus grande échelle, avec des drones plus puissants et plus utiles pour les habitants. Au final, ces trois expériences prouvent que les drones peuvent réellement améliorer la rapidité et la régularité des livraisons dans les zones rurales ou montagneuses, ou même en ville, tout en ouvrant la voie à un futur où ce type de service pourrait se développer davantage. C'est probable que l'on revoit des tests dans le futur.
->>>>>>> Stashed changes

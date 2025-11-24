@@ -1,5 +1,5 @@
 ---
-title: "Des extraits de discussion durant le Débat"
+title: "Le Festival De Drone et leurs impactes"
 description: "Chaque conférencier a pu prendre la parole durant les differents débat et chacun a pu parler des sujets qu'il defend."
 cardImage: "@/images/insights/discu.png"
 cardImageAlt: "Top view mechanical tools arrangement"
@@ -25,7 +25,7 @@ Jérome : "Ce serait un bon compromis entre innovation technologique et protecti
 
 ![texte alternatif](/src/images/insights/ois.png)
 
-## Le festival de drone 09/08/2025
+## Les nuisances sonores des hélices 09/08/2025
 
 Jeanne : "Les avions font déjà assez de bruit comme ça je ne pense pas pouvoir supporter des drones."
 
