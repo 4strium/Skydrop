@@ -21,7 +21,8 @@ type Testimonial = {
   content: string;
   author: string;
   role: string;
-  avatarSrc: string;
+  avatar?: ImageMetadata; // added
+  avatarSrc?: string;     // backward compatibility
 };
 
 // TypeScript type for stats.
@@ -56,7 +57,28 @@ type StatProps = {
       <!-- Generate a blockquote for each testimonial in the testimonials array by mapping over the array. -->
       { testimonials &&
         testimonials.map((testimonial) => (
-        <TestimonialItem content={testimonial.content} author={testimonial.author} role={testimonial.role} avatarSrc={testimonial.avatarSrc} />
+        <div>
+          {testimonial.avatar ? (
+            <img
+              src={testimonial.avatar.src}
+              width={testimonial.avatar.width}
+              height={testimonial.avatar.height}
+              alt={testimonial.author}
+              class="h-16 w-16 rounded-full object-cover"
+              loading="lazy"
+            />
+          ) : testimonial.avatarSrc ? (
+            <img
+              src={testimonial.avatarSrc}
+              width="64"
+              height="64"
+              alt={testimonial.author}
+              class="h-16 w-16 rounded-full object-cover"
+              loading="lazy"
+            />
+          ) : null}
+          <TestimonialItem content={testimonial.content} author={testimonial.author} role={testimonial.role} avatarSrc={testimonial.avatarSrc} />
+        </div>
         ))
       }
     </div>
