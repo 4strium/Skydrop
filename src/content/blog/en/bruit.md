@@ -1,7 +1,7 @@
 ---
 title: "Le bruit des drones et les possibles perturbations"
-description: "Chaque drone emet un bruit surtout à cause de leurs hélice"
-author: "Thomas"
+description: "Chaque drone émet un bruit surtout à cause de leurs hélice"
+author: "Hélène"
 role: "Conferencier"
 authorImage: "@/images/blog/anna.avif"
 authorImageAlt: "Avatar Description"

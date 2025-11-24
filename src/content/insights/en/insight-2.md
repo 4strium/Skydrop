@@ -7,23 +7,28 @@ cardImageAlt: "Top view mechanical tools arrangement"
 
 ## Débat sur les dégats possible sur les Oiseaux.
 
+Thierry : "J'ai peur pour les oiseaux, les drones sont une nuisance pour eux et un possible danger."
 
-Marco : "Les oiseaux seront en danger avec la multiplication des drones dans les espaces ruraux, en effet face au drone un oiseau peut prendre la fuite et abandonner son nid, ce qui peut entraîner un échec de reproduction"
+Marco : "Oui, les oiseaux seront en danger avec la multiplication des drones dans les espaces ruraux, face à un drone un oiseau peut prendre la fuite et abandonner son nid."
 
-Jérome : "Si des espaces protégés pour les oiseaux sont mis en place, cela pourrait réduire les risques des cas comme cela se passe?"
+Thierry : "J'ai peur pour les oiseaux, les drones sont une nuisance pour eux et un possible danger."
+
+Jérome : "Si des espaces protégés pour les oiseaux sont mis en place, cela pourrait réduire les risques?"
 
 Marco : "En effet ca pourrait aider, cependant les oiseaux migrent en groupe et ainsi ils sont aussi une menace pour les drones si un drone rencontre un groupe d'oiseaux migrateurs, on ne sait pas ce qui pourrait se passer"
 
-Jérôme : "Donc, en plus de protéger les oiseaux, il faudrait aussi réguler l’usage des drones, surtout pendant les périodes de migration ? "
+Jérome : "Donc, en plus de protéger les oiseaux, il faudrait aussi réguler l’usage des drones, surtout pendant les périodes de migration ? "
 
-Marco : "Exactement. On pourrait imaginer des couloirs aériens interdits aux drones, un peu comme pour l’aviation. Et pourquoi pas des systèmes de détection automatique pour éviter les collisions."
+Marco : "Exactement. On pourrait imaginer des couloirs aériens interdits aux drones, un peu comme pour l’aviation, et pourquoi pas des systèmes de détection automatique pour éviter les collisions."
 
-Jérôme : "Ce serait un bon compromis entre innovation technologique et protection de la biodiversité."
+Jérome : "Ce serait un bon compromis entre innovation technologique et protection de la biodiversité."
 
 
 ## Le bruit des drones dans les campagnes
 
 Marie : "Ce qu’on observe en ville, c’est que les drones ajoutent un bruit aigu très  reconnaissable. Même si leur volume n’est pas énorme, leur fréquence attire immédiatement l’attention et perturbe le calme, surtout dans les zones résidentielles les drones peuvent monter jusqu'a 85 décibel."
+
+Daniel : 
 
 Thomas : "C’est vrai. Il faut absolument réduire ce bruit afin de ne pas déranger les habitant, les drones devront voler a toutes heures cela pourrait vite devenir un problème. "
 
