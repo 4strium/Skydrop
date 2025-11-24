@@ -1,12 +1,12 @@
 {
-  "subTitle": "Demandez nous ce que vous voulez a propos de cette conférence de consensus.",
+  "subTitle": "",
   "faqs": [
     {
       "question": "Quelle est l'utilité de faire une conférence de consensus pour les drones livreurs?",
       "answer": "En effet, il est important de comprendre notre démarche. Nous pensons que les machines appartiennent aux citoyens et que c’est donc à eux de décider si ces machines peuvent être utilisées ou non. De plus, nous estimons qu’ils doivent avoir leur mot à dire concernant la réglementation encadrant l’usage de ces drones livreurs."
     },
     {
-      "question": "Quelle avantage les drones livreurs ont par rapport a des livreurs normaux?",
+      "question": "Quelle avantage les drones livreurs ont par rapport à des livreurs normaux?",
       "answer": "Les drones livreurs ont des avantages mais aussi des inconvenient par rapport à vos livreurs normaux. Pour commencer les drones sont plus rapides, ils ont moins de chance d'ètre pris dans des bouchons et peuvent atteindre des zones plus éloignés. Cependant ils ne sont pas épargné de défault ils sont un danger pour les oiseaux et créent des nuisances sonores."
     },
     {
@@ -22,7 +22,7 @@
       "answer": "En effet on peut se demander quelles sont les risques qui accompagnent l'utilisation des drones livreurs on peut nottament cité une panne en plein vol ou encore un drone qui fonce dans une personne. C'est en connaissance de ces risques que les conférenciers ont debattu."
     },
     {
-      "question": "Qui sont les conférenciers qui ont participé?",
+      "question": "Qui sont les conférenciers qui ont participé ?",
       "answer": "Les conférenciers sont des personnes comme vous et moi qui ont été tiré au sort et qui ont accépté de venir debattre a propos des drones pendant 6mois. Ils viennent de toute la france, y compris les DOM-TOM."
     }
   ]
