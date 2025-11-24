@@ -7,8 +7,10 @@ const { content, author, role, avatarSrc } = Astro.props;
 interface Props {
   content: string;
   author: string;
-  role: string;
-  avatarSrc: string;
+  role?: string;
+  avatarSrc?: string;
+  avatarWidth?: number;
+  avatarHeight?: number;
 }
 ---
 
@@ -24,13 +26,16 @@ interface Props {
   <div class="mt-6">
     <div class="flex items-center">
       <div class="shrink-0">
-        <Image
-          class="h-8 w-8 rounded-full"
-          src={avatarSrc}
-          alt="Avatar Description"
-          loading={"eager"}
-          inferSize
-        />
+        {avatarSrc && (
+          <img
+            src={avatarSrc}
+            width={avatarWidth}
+            height={avatarHeight}
+            alt={author}
+            class="h-16 w-16 rounded-full object-cover"
+            loading="lazy"
+          />
+        )}
       </div>
       <div class="ms-4 grow">
         <div class="font-bold text-neutral-800 dark:text-neutral-200">
