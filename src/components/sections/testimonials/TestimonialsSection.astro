@@ -1,6 +1,7 @@
 ---
 import TestimonialItem from "./TestimonialItem.astro";
 import StatsGrid from "../../ui/blocks/StatsGrid.astro";
+import type { ImageMetadata } from 'astro'; // added
 
 const {
   title,
@@ -77,7 +78,12 @@ type StatProps = {
               loading="lazy"
             />
           ) : null}
-          <TestimonialItem content={testimonial.content} author={testimonial.author} role={testimonial.role} avatarSrc={testimonial.avatarSrc} />
+          <TestimonialItem
+            content={testimonial.content}
+            author={testimonial.author}
+            role={testimonial.role}
+            avatarSrc={testimonial.avatar?.src ?? testimonial.avatarSrc ?? ''}  // ensure string
+          />
         </div>
         ))
       }
