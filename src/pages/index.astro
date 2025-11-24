@@ -2,8 +2,6 @@
 // Import the necessary components
 import MainLayout from "@/layouts/MainLayout.astro";
 import HeroSection from "@components/sections/landing/HeroSection.astro";
-import HeroSectionAlt from "@components/sections/landing/HeroSectionAlt.astro";
-import ClientsSection from "@components/sections/landing/ClientsSection.astro";
 import FeaturesGeneral from "@components/sections/features/FeaturesGeneral.astro";
 import FeaturesNavs from "@components/sections/features/FeaturesNavs.astro";
 import TestimonialsSection from "@components/sections/testimonials/TestimonialsSection.astro";
@@ -11,12 +9,10 @@ import FAQ from "@components/sections/misc/FAQ.astro";
 import heroImage from "@images/drone-home.png";
 import faqs from "@data/faqs.json";
 import features from "@data/features.json";
-import featureImage from "@images/features-image.avif";
 import features_0 from "@images/drones_features_0.png";
 import features_1 from "@images/ecolo_features_1.png";
 import features_2 from "@images/tower_features_2.jpg";
 import samuel_img from "@images/samuel.png";
-import { partnersData } from "@/data_files/constants";
 
 const avatarSrcs: Array<string> = [
   "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=2&w=300&h=300&q=80",
@@ -90,14 +86,14 @@ const avatarSrcs: Array<string> = [
         author: "Samuel Ruiz",
         role: "Directeur technique | Udrone",
         avatarSrc:
-          samuel_img,
+          samuel_img.src,
       },
     ]}
     statistics={[
       {
         count: "72 %",
         description:
-          "des personnes interrogées se disent « très préoccupées » par l’utilisation de drones aériens autour de leur domicile.",
+          "des personnes interrogées se disent « très préoccupées » par l'utilisation de drones aériens autour de leur domicile.",
       },
       {
         count: "8min",
