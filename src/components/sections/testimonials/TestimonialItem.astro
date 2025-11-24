@@ -12,7 +12,15 @@ interface Props {
   avatarWidth?: number;
   avatarHeight?: number;
 }
----
+
+const {
+  content,
+  author,
+  role,
+  avatarSrc,
+  avatarWidth = 64,
+  avatarHeight = 64,
+}: Props = Astro.props;
 
 <blockquote class="relative">
   <Icon name="quotation" />
