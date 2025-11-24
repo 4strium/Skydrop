@@ -1,6 +1,6 @@
 ---
-title: "Ils répondent a mes questions"
-description: "Comment les drones peuvent détecter les infrastructures ?"
+title: "Ils répondent à nos questions"
+description: "Comment les drones peuvent-ils détecter les infrastructures ?"
 cardImage: "@/images/ispection_par_drone.jpg"
 cardImageAlt: "Top view mechanical tools arrangement"
 ---
